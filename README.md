@@ -1,5 +1,5 @@
 # My Power BI Capestone Project 
 
 ...
-Below is my prokect 
+Below is my prokect. 
 
